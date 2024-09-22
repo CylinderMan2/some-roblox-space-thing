@@ -1,0 +1,32 @@
+[
+    {
+        "StarName": "Sirius",
+        "RA": "06h45m08.9173s",
+        "Dec": "-16\u00b042'58.0171\"",
+        "Magnitude": -1.46
+    },
+    {
+        "StarName": "Canopus",
+        "RA": "06h23m57.1099s",
+        "Dec": "-52\u00b041'44.381s",
+        "Magnitude": -0.74
+    },
+    {
+        "StarName": "Arcturus",
+        "RA": "14h15m39.6721s",
+        "Dec": "+19\u00b010'56.673s",
+        "Magnitude": -0.05
+    },
+    {
+        "StarName": "Vega",
+        "RA": "18h36m56.3364s",
+        "Dec": "+38\u00b047'01.2802",
+        "Magnitude": 0.03
+    },
+    {
+        "StarName": "Capella",
+        "RA": "05h16m41.3587s",
+        "Dec": "+45\u00b059'52.7693",
+        "Magnitude": 0.08
+    }
+]
